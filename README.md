@@ -8,9 +8,9 @@ Open your linux terminal || termux , then -
 
 ~ ./c.sh
 
-You will see the current gregrian month
+You will see the current gregrian calender
 
-If you want to see other calender like calender to November 2018 , then
+If you want to see other calender like calender of November 2018 , then run command as follows ->
 
 ~ ./cmanual.sh
 
